@@ -1,5 +1,6 @@
 img{
   width: 300px;
+  border: 2px solid salmon;
 }
 h3{
   font-size: 50px;
